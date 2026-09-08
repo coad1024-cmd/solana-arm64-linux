@@ -65,6 +65,7 @@ Every release tarball (`solana-release-aarch64-unknown-linux-gnu.tar.bz2`) conta
 
 * Full technical autopsy of GCC 15 transitive header decoupling, RocksDB AST patching, and dual C/C++ `bindgen` preprocessor guards: **[Read ARCHITECTURE.md](ARCHITECTURE.md)**
 * Empirical developer test walkthrough running Anchor smart contracts in LiteSVM in 0.15s: **[Read the LiteSVM Gist](https://gist.github.com/coad1024-cmd/d3822eb6cab1d159946e7764d8cf1f4d)**
+* Production-grade Solana Foundation Grant Proposal synthesizing all 5 verified protocol deliverables, empirical benchmarks, and 3-milestone $75,000 budget plan: **[Read GRANT_PROPOSAL.md](GRANT_PROPOSAL.md)**
 
 ---
 
